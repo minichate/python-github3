@@ -4,3 +4,4 @@ nose
 mock
 unittest2
 sphinx
+funcsigs
